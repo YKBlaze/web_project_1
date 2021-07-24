@@ -44,7 +44,9 @@ li{
   z-index: 1;
 }
 .logo_place_header{
-  position: absolute; top: 0; left: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
   margin-left: 64px;
   margin-top: 30px;
 }
@@ -58,7 +60,6 @@ li{
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-
 }
 .header__subtitle{
   z-index: 1;
@@ -72,7 +73,9 @@ li{
   align-items: flex-end;
 }
 .header__main-illustration{
-  position: absolute; right: 0; bottom: 0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
   height: 608px;
   width: 756px;
 }
@@ -84,8 +87,8 @@ li{
   background-color: #2F80ED;
 }
 .header__link{
-color: #2F80ED;
-text-decoration: none;
+  color: #2F80ED;
+  text-decoration: none;
 }
 /* HEADER section END */
 .content{
@@ -236,7 +239,9 @@ text-decoration: none;
   text-align: center;
 }
 .feynman__image{
-  position: absolute; bottom: 0; left: 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
   height: 637px;
   width: 867px;
 }
@@ -259,7 +264,6 @@ text-decoration: none;
 .section-title_theme_dark{
   margin-top: 90px;
   color: white;
-
 }
 .section-subtitle_theme_dark{
   color: white;
@@ -306,7 +310,7 @@ text-decoration: none;
   position: relative;
 }
 .logo_place_footer{
- display: flex;
+  display: flex;
 }
 .footer__author{
   line-height: 25px;
