@@ -1,10 +1,8 @@
 ul{
   padding: 0%;
-
 }
 li{
   padding: 0%;
-
 }
 .page {
   min-width: 1100px;
@@ -87,12 +85,10 @@ li{
   position: absolute; right: 0;
   margin-top: 64px;
   background-color: #2F80ED;
-
 }
 .header__link{
 color: #2F80ED;
 text-decoration: none;
-
 }
 /* HEADER section END */
 .content{
@@ -106,7 +102,6 @@ text-decoration: none;
 .description{
   margin-top: 100px;
   background-color: white;
-
  }
 .two-columns{
   position: relative;
@@ -114,11 +109,8 @@ text-decoration: none;
   flex-direction: row;
   margin-left: 64px;
   align-items: center;
-
-
 }
 .two-columns__main-text{
-
   width: 80%;
   min-width: 784px;
   margin-left: auto;
@@ -140,7 +132,6 @@ text-decoration: none;
   font-size: 24px;
   font-weight: normal;
   order: 2;
-
 }
 .two-columns__paragraph-2{
   min-width: 784px;
@@ -150,11 +141,9 @@ text-decoration: none;
   font-size: 24px;
   font-weight: normal;
   order: 2;
-
 }
 .two-columns__paragraph-3{
   min-width: 784px;
-
   width: 80%;
   line-height: 34px;
   font-size: 24px;
@@ -165,7 +154,6 @@ text-decoration: none;
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
-
 }
 /* DESCRITION section END */
 /* DIGITS section  */
@@ -223,7 +211,6 @@ text-decoration: none;
   font-size: 18px;
   font-weight: normal;
 }
-
 /* DIGITS section END */
 /* FEYMAN section */
 .feynman{
@@ -251,13 +238,11 @@ text-decoration: none;
   z-index: 1;
   text-align: center;
 }
-
 .feynman__image{
   position: absolute; bottom: 0; left: 0;
   height: 637px;
   width: 867px;
 }
-
 .feynman__link{
   position: absolute; right:0; bottom:50%;
   margin-right: 48px;
@@ -322,7 +307,6 @@ text-decoration: none;
   justify-content: space-between;
   display: flex;
   position: relative;
-
 }
 .logo_place_footer{
  display: flex;
@@ -354,7 +338,6 @@ text-decoration: none;
   width: 16px;
   margin-right: 10px;
 }
-
 .footer__column_content_copyright{
   display: flex;
   flex-flow: column;
