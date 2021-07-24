@@ -319,25 +319,21 @@ text-decoration: none;
   min-height: 350px;
   margin-left: auto;
   margin-right: auto;
+  justify-content: space-between;
   display: flex;
-  flex-flow: row wrap;
   position: relative;
-  justify-content: space-around;
+
 }
 .logo_place_footer{
  display: flex;
 }
 .footer__author{
-
-  align-self: flex-end;
-  justify-self: flex-start;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   color: white;
   margin-top: 18px;
   margin-bottom: 18px;
-
 }
 .footer__column-heading{
   line-height: 30px;
@@ -347,7 +343,6 @@ text-decoration: none;
   margin-bottom: 20px;
 }
 .footer__list{
-  flex-wrap: nowrap;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -359,23 +354,21 @@ text-decoration: none;
   width: 16px;
   margin-right: 10px;
 }
-.footer__column_content_copyright{
-  flex-basis: 711px;
-  align-items: stretch;
-  align-items: flex-start;
-  justify-content: space-around;
 
+.footer__column_content_copyright{
+  display: flex;
+  flex-flow: column;
+  position: relative;
+  flex-basis: 711px;
+  justify-content: space-between;
 }
 .footer__column_content_about{
-  justify-content: space-between;
-  align-items: center;
-  flex-flow: column;
   display: flex;
+  flex-flow: column;
   position: relative;
-
 }
 .footer__column_content_social{
-  justify-content: center;
-  align-items: center;
-
+  display: flex;
+  flex-flow: column;
+  position: relative;
 }
