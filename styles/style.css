@@ -82,7 +82,8 @@ li{
 .header__square-pic {
   height: 568px;
   width: 568px;
-  position: absolute; right: 0;
+  position: absolute;
+  right: 0;
   margin-top: 64px;
   background-color: #2F80ED;
 }
@@ -246,7 +247,9 @@ li{
   width: 867px;
 }
 .feynman__link{
-  position: absolute; right:0; bottom:50%;
+  position: absolute;
+  right:0;
+  bottom:50%;
   margin-right: 48px;
   z-index: 1;
   text-decoration: none;
@@ -286,7 +289,8 @@ li{
   color: white;
 }
 .kaufman__triangle{
-  position: absolute; right: -124px;
+  position: absolute;
+  right: -124px;
   overflow: hidden;
   width: 660px;
   height: 636px;
