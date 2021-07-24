@@ -24,6 +24,7 @@
   margin-top: 30px;
 }
 .header__title{
+  padding: 0;
   justify-content: center;
   align-items: center;
   width: 730px;
@@ -75,8 +76,8 @@
   align-items: center;
 }
 .two-columns__main-text{
-  margin-top: 100px;
   width: 80%;
+  margin-top: 100px;
   min-width: 784px;
   margin-left: auto;
   margin-right: auto;
@@ -90,13 +91,11 @@
   color: #2F80ED;
 }
 .two-columns__paragraph{
-  width: 80%;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
 }
 .two-columns__paragraph:nth-of-type(2){
-  width: 80%;
   margin-bottom: 30px;
   margin-top: 30px;
   line-height: 34px;
