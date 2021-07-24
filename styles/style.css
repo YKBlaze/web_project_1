@@ -43,13 +43,11 @@ li{
   width: 154px;
   z-index: 1;
 }
-
 .logo_place_header{
   position: absolute; top: 0; left: 0;
   margin-left: 64px;
   margin-top: 30px;
 }
-
 .header__title{
   justify-content: center;
   align-items: center;
@@ -72,7 +70,6 @@ li{
   font-weight: normal;
   justify-content: flex-end;
   align-items: flex-end;
-
 }
 .header__main-illustration{
   position: absolute; right: 0; bottom: 0;
