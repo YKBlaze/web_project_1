@@ -16,8 +16,6 @@ li{
 }
 /* HEADER section */
 .header {
-  min-width: 1100px;
-  max-width: 1600px;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
