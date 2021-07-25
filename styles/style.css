@@ -85,7 +85,6 @@
   position: relative;
   flex-direction: row;
   justify-content: space-between;
-  width: 80%;
   display: flex;
 }
 .two-columns__main-text{
