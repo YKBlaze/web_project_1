@@ -79,7 +79,7 @@
   position: relative;
   flex-direction: row;
   margin: 0 auto;
-  align-items: center;
+  justify-content: space-between;
 }
 .two-columns__main-text{
   padding: 0;
