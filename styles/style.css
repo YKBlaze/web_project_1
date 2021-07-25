@@ -13,6 +13,9 @@
 .margin-bottom{
   margin-bottom: 30px;
 }
+.margin-right{
+  margin-right: 48px;
+}
 .header {
   height: 100vh;
   min-height: 600px;
@@ -240,7 +243,6 @@
   position: absolute;
   right: 0;
   bottom:50%;
-  margin-right: 48px;
   z-index: 1;
   line-height: 51px;
   font-size: 36px;
