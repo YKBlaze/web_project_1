@@ -43,6 +43,7 @@
 }
 .header__subtitle{
   margin-top: 0;
+
   padding: 0;
   z-index: 1;
   width: 388px;
@@ -85,16 +86,13 @@
 .two-columns{
   position: relative;
   flex-direction: row;
-  margin: 0 auto;
   justify-content: space-between;
 }
 .two-columns__main-text{
   padding: 0;
   width: 80%;
-  margin-bottom: 0;
+  margin: 0 auto;
   min-width: 784px;
-  margin-left: auto;
-  margin-right: auto;
 }
 .two-columns__brief{
   margin-top: 0;
