@@ -404,15 +404,9 @@
   padding: 0;
   margin: 0;
   list-style-type: none;
-  display: flex;
-  flex-flow: column;
-  position: relative;
 }
 .footer__column_content_social{
   padding: 0;
   margin: 0;
   list-style-type: none;
-  display: flex;
-  flex-flow: column;
-  position: relative;
 }
