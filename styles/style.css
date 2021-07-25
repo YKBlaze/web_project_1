@@ -380,19 +380,19 @@
   width: 16px;
   margin-right: 10px;
 }
-.footer__column_content_copyright{
+.footer__column_content-copyright{
   display: flex;
   flex-flow: column;
   position: relative;
   flex-basis: 711px;
   justify-content: space-between;
 }
-.footer__column_content_about{
+.footer__column_content-about{
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
-.footer__column_content_social{
+.footer__column_content-social{
   padding: 0;
   margin: 0;
   list-style-type: none;
