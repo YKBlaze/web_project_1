@@ -43,13 +43,15 @@
 }
 .header__subtitle{
   margin-top: 0;
-  margin-bottom: 0;
   padding: 0;
   z-index: 1;
   width: 388px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
 .header__main-illustration{
   position: absolute;
