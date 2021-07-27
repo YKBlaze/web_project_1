@@ -349,9 +349,6 @@
   margin-top: 0;
   margin-bottom: 0;
   padding: 0;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
   list-style-type: none;
   color: white;
 }
@@ -399,4 +396,7 @@
   margin-bottom: 0;
   text-decoration: none;
   color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
