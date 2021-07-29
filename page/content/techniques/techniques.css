@@ -1,6 +1,6 @@
 @import url(/page/content/cards/cards.css);
-@import url(/page/content/section-subtitle/section-subtitle.css);
-@import url(/page/content/section-subtitle/section-title.css);
+@import url(/page/__section-subtitle/page__section-subtitle.css);
+@import url(/page/__section-subtitle/page__section-title.css);
 .techniques{
   background-color: white;
   padding-top: 100px;

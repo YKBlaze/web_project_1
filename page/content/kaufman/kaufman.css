@@ -1,9 +1,9 @@
 @import url(/page/content/kaufman/__triangle/kaufman__triangle.css);
 @import url(/page/content/table/table.css);
-@import url(/page/content/section-title/section-title.css);
-@import url(/page/content/section-title/_theme/section-title_theme_dark.css);
-@import url(/page/content/section-subtitle/section-subtitle.css);
-@import url(/page/content/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(/page/__section-title/page__section-title.css);
+@import url(/page/section-title/_theme/page__section-title_theme_dark.css);
+@import url(/page/__section-subtitle/page__section-subtitle.css);
+@import url(/page/__section-subtitle/_theme/page__section-subtitle_theme_dark.css);
 .kaufman{
   display: flex;
   position: relative;
