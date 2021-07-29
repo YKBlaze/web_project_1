@@ -10,5 +10,6 @@
   flex-direction: column;
   background-color: #1F1F1F;
   overflow: hidden;
+  padding-top: 90px;
   padding-bottom: 90px;
 }
