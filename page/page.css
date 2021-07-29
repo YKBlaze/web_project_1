@@ -1,10 +1,10 @@
 @import url(/page/keyframes/keyframes.css);
 @import url(/page/header/header.css);
+@import url(/page/content/content.css);
 @import url(/page/__section-subtitle/page__section-subtitle.css);
 @import url(/page/__section-subtitle/_theme/page__section-subtitle_theme_dark.css);
 @import url(/page/__section-title/_theme/page__section-title_theme_dark.css);
 @import url(/page/__section-title/page__section-title.css);
-@import url(/page/content/content.css);
 @import url(/page/footer/footer.css);
 .page {
   min-width: 1100px;
