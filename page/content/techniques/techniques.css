@@ -1,0 +1,12 @@
+@import url(/page/content/cards/cards.css);
+@import url(/page/content/section-subtitle/section-subtitle.css);
+@import url(/page/content/section-subtitle/section-title.css);
+.techniques{
+  background-color: white;
+  padding-top: 100px;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

@@ -1,0 +1,14 @@
+@import url(/page/content/kaufman/__triangle/kaufman__triangle.css);
+@import url(/page/content/table/table.css);
+@import url(/page/content/section-title/section-title.css);
+@import url(/page/content/section-title/_theme/section-title_theme_dark.css);
+@import url(/page/content/section-subtitle/section-subtitle.css);
+@import url(/page/content/section-subtitle/_theme/section-subtitle_theme_dark.css);
+.kaufman{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  background-color: #1F1F1F;
+  overflow: hidden;
+  padding-bottom: 90px;
+}

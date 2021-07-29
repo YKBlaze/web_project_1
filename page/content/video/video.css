@@ -1,0 +1,12 @@
+@import url(/page/content/video/__iframe/video__iframe.css);
+@import url(/page/content/video/__iframes/video__iframes.css);
+@import url(/page/content/section-title/section-title.css);
+@import url(/page/content/section-subtitle/section-subtitle.css);
+.video{
+  background-color: white;
+  padding-top: 100px;
+  display: flex;
+  position: relative;
+  flex-flow: column;
+  overflow: visible;
+}
