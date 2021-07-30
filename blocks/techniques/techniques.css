@@ -1,0 +1,9 @@
+.techniques{
+  background-color: white;
+  padding-top: 100px;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
