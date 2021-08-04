@@ -5,4 +5,5 @@
   right: 0;
   top: 64px;
   background-color: #2F80ED;
+  transform: rotate(-15deg);
 }
