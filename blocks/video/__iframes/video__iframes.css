@@ -11,3 +11,7 @@
   list-style-type: none;
   z-index: 2;
 }
+.video__iframes li:nth-of-type(1) .video__iframe{
+  margin-right: 20px;
+}
+
